@@ -1,0 +1,14 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "Code for an experimental version of my personal website.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
